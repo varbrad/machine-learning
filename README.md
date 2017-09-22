@@ -2,7 +2,11 @@
 
 > Some simple demos and playthings in my machine learning experimentation
 
-## Build Setup
+## Live Version
+
+https://varbrad.github.io/machine-learning/
+
+## Build & Run
 
 ``` bash
 # install dependencies
